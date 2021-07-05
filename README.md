@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning AI
-- - 📫 How to reach me: Idk
+- 📫 How to reach me: Idk
 
 <!--
 **Lewis911/Lewis911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
